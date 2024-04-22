@@ -1,8 +1,17 @@
 body{
-color:black;
+background-color: black;
+
 }
 
 h1{
 color:white;
 }
+hr{
+    color:blue;
+}
+button{
+    background-color: white;
+    color:black;
+    font-size:20px;
 
+}
