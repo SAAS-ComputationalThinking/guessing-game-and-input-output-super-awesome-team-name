@@ -1,12 +1,16 @@
 body{
-background-color: black;
+background-color: rgb(9, 226, 125);
 
 }
 
 h1{
-color:white;
+        color:red;
+    background-image: url('image.gif'); 
+    -webkit-background-clip: text; 
+    color: transparent; 
 }
-hr{
+
+    hr{
     color:blue;
 }
 button{

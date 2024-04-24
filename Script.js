@@ -2,7 +2,7 @@
     //return math.floor(math.random() * max);
 //}
 //console.log(getRandomInt(5));
-const max=Math.floor(Math.random()*1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000);
+const max=Math.floor(Math.random()*1000);
 var btn = document.getElementById("");
 // btn.addEventListener("Click,enterbutton")
 function enterbutton(){
