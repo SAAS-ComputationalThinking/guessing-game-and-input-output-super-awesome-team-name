@@ -30,7 +30,8 @@ const inputValue = input.value;
     }
         
 }
-document.getElementById('Submitinput').addEventListener("click",enterbutton2);
+document.getElementById('Myintput2').addEventListener("change",enterbutton2);
+
 function enterbutton2(){
     const input2 = document.getElementById("Myintput2");
     const inputValue2 = input2.value;
